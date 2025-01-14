@@ -26,6 +26,8 @@ int getNumber(){
     scanf("%d", &numero);
     return numero;
 }
+
+
 int main() {
     int numero;
     int i;
