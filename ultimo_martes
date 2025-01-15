@@ -1,0 +1,14 @@
+List<Boolean>kidswithCandies(List<Integer>candies,int extra Candies){
+    int len=candies.size<>;
+List<Boolean>result=newArrayList<>();
+int greatest=0;
+for(int i=0; i<candies.size();i++){
+    if(greatest<=candies.get(i)){
+        greatest=candies.get(i)
+    }
+}
+for (int i=0; i< len ;i++);
+ resultado(candies.get(i)+extracandies>=greatest);
+ }
+ return result;
+ }
